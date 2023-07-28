@@ -1,5 +1,5 @@
 # alura-portfolio-html-css
-HTML e CSS: Alura Portfólio
+Projeto HTML e CSS Alura
 
 Projeto resultado do curso:
 -HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags;
