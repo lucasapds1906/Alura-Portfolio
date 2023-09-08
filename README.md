@@ -18,7 +18,7 @@ Durante a realização deste projeto, foram colocados em prática os seguintes c
 
 ![Captura de Desktop](https://github.com/lucasapds1906/alura-portfolio-html-css/blob/main/imagensReadme/layout-desktop.png)
 ![Captura de Mobile](https://github.com/lucasapds1906/alura-portfolio-html-css/blob/main/imagensReadme/layout-mobile.png)
-![Captura de Tablet](https://github.com/lucasapds1906/alura-portfolio-html-css/blob/main/imagensReadme/layout-tablet.png)
+![Captura de Tablet](https://github.com/lucasapds1906/alura-portfolio-html-css/blob/main/imagensReadme/tablet-layout.png)
 
 ## Layout no Figma
 
